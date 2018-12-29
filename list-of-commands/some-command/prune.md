@@ -32,8 +32,6 @@ L!prune <number_of_messages>
 
 Specifying a number of messages will make LewdBot delete the past X messages from the chat.
 
-This number includes the command message.
-
 ### 3 - Deleting messages from a user
 
 ```java

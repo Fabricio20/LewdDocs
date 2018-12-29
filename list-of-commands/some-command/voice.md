@@ -30,7 +30,7 @@ Please note that the member already has to be in a voice channel.
 
 ### 3 - Moving all members of a channel to another channel
 
-```text
+```java
 L!voice move <channel> <channel>
 ```
 
@@ -38,7 +38,7 @@ Specifying two channels as parameters will make LewdBot move all members connect
 
 ### 4 - Splitting members between channels
 
-```text
+```java
 L!voice split <channel> <channel>
 ```
 
