@@ -14,6 +14,8 @@
   * [Prune](list-of-commands/some-command/prune.md)
   * [Softban](list-of-commands/some-command/softban.md)
   * [Voice](list-of-commands/some-command/voice.md)
+  * [ModLog](list-of-commands/some-command/modlog.md)
+  * [Reason](list-of-commands/some-command/reason.md)
 * [NSFW](list-of-commands/nsfw/README.md)
   * [Rule34](list-of-commands/nsfw/rule34.md)
   * [Danbooru](list-of-commands/nsfw/danbooru.md)
