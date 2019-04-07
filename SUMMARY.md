@@ -7,6 +7,9 @@
 
 ## List of Commands
 
+* [Fun](list-of-commands/fun/README.md)
+  * [Anime](list-of-commands/fun/anime.md)
+  * [Define](list-of-commands/fun/define.md)
 * [Moderation](list-of-commands/some-command/README.md)
   * [Ban](list-of-commands/some-command/ban.md)
   * [Hackban](list-of-commands/some-command/hackban.md)

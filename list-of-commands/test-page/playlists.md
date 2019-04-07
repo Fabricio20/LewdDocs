@@ -15,6 +15,8 @@ This is the main command for the PlayLists feature on LewdBot Music.
 | CMD\_PLAYLIST\_RENAME | Yes |
 | CMD\_PLAYLIST\_COPY | Yes |
 | CMD\_PLAYLIST\_LOCK | Yes |
+| CMD\_PLAYLIST\_SHUFFLE | Yes |
+| CMD\_PLAYLIST\_MODE | Yes |
 
 {% hint style="info" %}
 All guilds have a default PlayList with the name of the guild, that can be used in case you don't want to clutter your personal playlists.
@@ -94,7 +96,7 @@ PlayLists on LewdBot are **not shared by default**, that means that only the own
 
 By setting share to **true**, any user will be able to add or remove songs from it.
 
-### 9 - Changing PlayList modes
+### 9 - Using shuffle
 
 ```java
 L!pl shuffle
@@ -102,7 +104,20 @@ L!pl shuffle
 
 This command will enable \(or disable\) shuffle mode on the current playlist. This change is bound per playlist, which means that if you activate another playlist, this setting will be overridden by the setting of the other playlist.
 
-{% hint style="warning" %}
-This subcommand may be removed in the feature as more playlist modes are implemented \(like Queue/Deque mode\).
+{% hint style="info" %}
+This command is a subcommand of the 'modes' command below, that one allows for more configuration.
 {% endhint %}
+
+### 10 - Changing PlayList modes
+
+```java
+L!pl mode <playList> <queue/shuffle> <true/false>
+```
+
+This command will enable \(or disable\) the specified flag on the specified playlist. This change is bound per playlist, which means that if you activate another playlist, this setting will be overridden by the setting of the other playlist.
+
+Modes:
+
+* Queue \(Deletes songs after they are played\).
+* Shuffle \(Randomly selects songs from the PlayList\).
 
