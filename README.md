@@ -20,6 +20,7 @@ To add the bot to your server, click [here](https://goo.gl/PrPGky). \(To start u
 * Music
 * Economy & Games
 * NSFW
+* _Many_ others.
 
 LewdBot has been up and under active development since November 2015, making her one of the oldest Discord bots still alive today.
 

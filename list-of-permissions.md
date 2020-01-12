@@ -4,6 +4,12 @@ This is a list of all permissions currently available on LewdBot.
 
 For detailed usage of the permissions system, please check the [Permissions](list-of-commands/settings/permissions.md) command.
 
+{% hint style="danger" %}
+This List of Permissions gets outdated really quickly as more features are added to the bot.
+
+For a full, always up-to-date list of permissions, use the **`L!perms list`** command.
+{% endhint %}
+
 ### Permission Groups
 
 These are groups that encompass some of the permissions listed below, allowing you to block/allow a full group without having to type each permission manually.
