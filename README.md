@@ -15,7 +15,7 @@ To add the bot to your server, click [here](https://goo.gl/PrPGky). \(To start u
 ## Features
 
 * Moderation \(Ban, Kick, Prune\)
-* Auto-Moderation \(Anti-Ad, Registration, Auto-Role\)
+* Auto-Moderation \(Anti-Ad, Registration, Auto-Role, Anti-Spam, Anti-Raid\)
 * Starboard
 * Music
 * Economy & Games
