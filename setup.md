@@ -21,6 +21,18 @@ LewdBot has `L!` as it's default prefix, if you want to change that, check out t
 
 {% page-ref page="list-of-commands/settings/prefix.md" %}
 
+## Advanced Configuration
+
+LewdBot is full of features and you may want to configure some, most configuration work is done via Permissions \(Restricting commands to specific roles\) but some are also done via the `Settings` command.
+
+To read more about permissions:
+
+{% page-ref page="list-of-commands/settings/permissions.md" %}
+
+To read more about advanced configuration:
+
+{% page-ref page="list-of-commands/settings/configuration.md" %}
+
 ## Getting help
 
 If you need help with LewdBot, you can reach us via our [Support Guild](https://discord.gg/xj62CKK) or search within this documentation.

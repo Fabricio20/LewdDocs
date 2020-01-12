@@ -19,6 +19,7 @@
   * [Voice](list-of-commands/some-command/voice.md)
   * [ModLog](list-of-commands/some-command/modlog.md)
   * [Reason](list-of-commands/some-command/reason.md)
+  * [Anti-Spam](list-of-commands/some-command/anti-spam.md)
 * [NSFW](list-of-commands/nsfw/README.md)
   * [Rule34](list-of-commands/nsfw/rule34.md)
   * [Danbooru](list-of-commands/nsfw/danbooru.md)
@@ -30,4 +31,5 @@
   * [Prefix](list-of-commands/settings/prefix.md)
   * [Permissions](list-of-commands/settings/permissions.md)
   * [Ignore](list-of-commands/settings/ignore.md)
+  * [Configuration](list-of-commands/settings/configuration.md)
 
